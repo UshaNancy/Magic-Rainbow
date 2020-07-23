@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903726711881",
+    "firebase_url": "https://magic-rainbow-prod-46165.firebaseio.com",
+    "project_id": "magic-rainbow-prod-46165",
+    "storage_bucket": "magic-rainbow-prod-46165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903726711881:android:706dd3e4feb8b826c72b98",
+        "android_client_info": {
+          "package_name": "com.grootan.magic.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903726711881-vqdvd4fvadluufmi433959gn90u45957.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK8b_3VcVtWZiWlC2ggGcISrKzooqdXzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903726711881-vqdvd4fvadluufmi433959gn90u45957.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

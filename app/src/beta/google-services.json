@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175781657119",
+    "firebase_url": "https://magic-rainbow-beta-35641.firebaseio.com",
+    "project_id": "magic-rainbow-beta-35641",
+    "storage_bucket": "magic-rainbow-beta-35641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175781657119:android:56794a55f3cdc4bd94b32a",
+        "android_client_info": {
+          "package_name": "com.grootan.magic.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175781657119-m2m19l6aius1omb0foljavnu1686dd7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-PfZ8ffxsCCLifW-1No86tS0xeK14OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175781657119-m2m19l6aius1omb0foljavnu1686dd7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
